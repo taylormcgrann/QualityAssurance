@@ -5,7 +5,7 @@
    2. Forking is making a copy of a repository.  This will be acopy that you'll be able to change, test, etc as much as you'd like.
    3. Documentation on Forking = https://help.github.com/en/github/getting-started-with-github/fork-a-repo
 2. Navigate to your account
-   1. 
+   * ![Fork Image](Profile Repo.jpg)
 3. top right click on your image
 4. click on repositories.
 5. You should have QualityAssurance listed in your repository now.  Click on it
@@ -18,7 +18,6 @@
 9. Change the ChangeMe Document. 
    1. Add your first and last name one line line.
    2. Do not delete others names.
-   3. Make any other changes SFW changes to the document that you'd like.  Note: there will be a full history of everyone who has made changes.
-
-
+   3. Make any other SFW changes to the document that you'd like.  Note: there will be a full history of everyone who has made changes.
+10. 
 
