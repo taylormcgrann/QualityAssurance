@@ -5,9 +5,10 @@
    2. Forking is making a copy of a repository.  This will be acopy that you'll be able to change, test, etc as much as you'd like.
    3. Documentation on Forking = https://help.github.com/en/github/getting-started-with-github/fork-a-repo
 2. Navigate to your account
-   * ![Fork Image](Profile%20Repo.jpg)
-3. top right click on your image
-4. click on repositories.
+   1. Click on your account icon at the top right of the screen
+      * ![Fork Image](Profile%20Repo.jpg)
+   2. click on repositories.
+      * ![Fork Image](Profile%20Repo.jpg)
 5. You should have QualityAssurance listed in your repository now.  Click on it
 6. Click the green Clone or Download button
 7. Get the HTTP URL
