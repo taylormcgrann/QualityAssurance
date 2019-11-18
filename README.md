@@ -1,6 +1,3 @@
 # QualityAssurance
 
-
-khv - hey added some text 2
-
-Here is my addition. Hkw
+![Fork image] https://github.com/IndianHills-CSD/QualityAssurance/blob/master/Fork%20image.jpg
