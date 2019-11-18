@@ -1,4 +1,7 @@
 # QualityAssurance
 
-![Fork image] (https://github.com/IndianHills-CSD/QualityAssurance/blob/master/Fork%20image.jpg)
-![What is this](Fork%20image.jpg)
+1. Fork this repository into your own.
+  1.
+
+https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+![Fork Image](Fork%20image.jpg)
